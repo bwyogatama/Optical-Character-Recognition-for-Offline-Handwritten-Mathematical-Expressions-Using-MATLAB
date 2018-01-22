@@ -1,8 +1,8 @@
 # Optical-Character-Recognition-for-Offline-Handwritten-Mathematical-Expressions-Using-MATLAB
 
 Contributors :
-- Jhonson Lee
-- Bobbi W. Yogatama
-- Hans Christian
+-Bobbi Winema Yogatama (ITB)
+-Hans Christian (ITB)
+-Jhonson Lee (ITB)
 
-To execute the program, you can run toplevel.m using MATLAB
+Run the program by executing toplevel.m using MATLAB
