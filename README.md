@@ -1,8 +1,5 @@
 # Optical-Character-Recognition-for-Offline-Handwritten-Mathematical-Expressions-Using-MATLAB
 
-============================================
-Mathematical Expressions Recognition System
-============================================
 Contributors :
 - Jhonson Lee
 - Bobbi W. Yogatama
